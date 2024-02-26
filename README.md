@@ -48,16 +48,5 @@ Project Outcomes:
 
 
 
-
-
-
-
-
-
-
 •	Web Application: The developed Flask-based web application allows users to input customer reviews and receive instant sentiment analysis results.
 
-
-
-Supervisor Communication:
-You can inform your supervisor that the project involves sentiment analysis on an e-commerce dataset sourced from Kaggle. The dataset contains attributes related to product information and customer reviews. The primary goal is to build a sentiment classification model that accurately categorizes customer sentiments as positive, negative, or neutral. The project includes data preprocessing, exploratory data analysis, class imbalance handling, model training, text vectorization, and the creation of a user-friendly web application for real-time sentiment analysis. The chosen model, SVC, achieved an accuracy of 64%, and the web application offers a practical interface for analyzing customer sentiments.
